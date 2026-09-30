@@ -14,4 +14,4 @@ Game development, programming, game jams, and small prototypes and technical exp
 
 ## Find Me
 
-[Website](https://www.ryanpond.com) · [itch.io](https://nuexguy.itch.io/) · [YouTube](https://www.youtube.com/@ryanpond) · [X](https://x.com/RyanPondBuilds)
+[Website](https://www.ryanpond.com) · [itch.io](https://ryanpond.itch.io/) · [YouTube](https://www.youtube.com/@ryanpond) · [X](https://x.com/RyanPondBuilds)
