@@ -18,4 +18,4 @@ Game development, programming, game jams, small prototypes, and technical experi
 
 ## Find Me
 
-[Website](https://ryanpond.com) · [itch.io](https://ryanpond.itch.io/) · [YouTube](https://www.youtube.com/@ryanpond) · [X](https://x.com/RyanPondBuilds)
+[Website](https://ryanpond.com) · [Email](mailto:hello@ryanpond.com) · [itch.io](https://ryanpond.itch.io/) · [YouTube](https://www.youtube.com/@ryanpond) · [X](https://x.com/RyanPondBuilds)
